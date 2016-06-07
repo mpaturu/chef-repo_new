@@ -1,0 +1,33 @@
+{
+	{"id":"varma",
+	"comment":"admin user",
+	"uid":2006,
+	"gid":0,
+	"home":"/home/varma",
+	"shell":"/bin/bash",
+	"password":"$1$varma123$Y3waNQmaNRKal.AUmgZTY/"
+	},
+	{"id":"karthik",
+	"comment":"admin user",
+	"uid":2006,
+	"gid":0,
+	"home":"/home/karthik",
+	"shell":"/bin/bash",
+	"password":" $1$karthik1$JEq4mDVF2pKwKL.43/xkU/"
+	}        {"id":"varma",
+        "comment":"admin user",
+        "uid":2006,
+        "gid":0,
+        "home":"/home/varma",
+        "shell":"/bin/bash",
+        "password":"$1$varma123$Y3waNQmaNRKal.AUmgZTY/"
+        },
+        {"id":"karthik",
+        "comment":"admin user",
+        "uid":2006,
+        "gid":0,
+        "home":"/home/karthik",
+        "shell":"/bin/bash",
+        "password":" $1$karthik1$JEq4mDVF2pKwKL.43/xkU/"
+        }
+}
