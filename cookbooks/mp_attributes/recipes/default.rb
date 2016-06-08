@@ -13,4 +13,4 @@ node.force_default.mp_attributes.mymsg='Hellow World from Recipe'
 ##default['mp_attributes']['mymsg']='Hellow World from Recipe'
 vmymsg = node['mp_attributes']['mymsg']
 vwelcomemsg = node['welcomemsg']
-Chef::Log.info("Log messages:  #{vmymsg} ***** #{vwelcomemsg}")
+Chef::Log.info("Log messages :  #{vmymsg} ***** #{vwelcomemsg}")
