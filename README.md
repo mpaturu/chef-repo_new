@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The chef-repo
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
@@ -33,3 +34,7 @@ Now that you have the chef-repo ready to go, check out [Learn Chef](https://lear
 =======
 # chef-repo
 >>>>>>> 93ed24c1122459ce86b5fd7d41e0f12bf7360ba3
+=======
+# chef-repo_new
+chef-repo_new
+>>>>>>> 606230180d07e5fe8f2d59a38797a3f467ddc31b

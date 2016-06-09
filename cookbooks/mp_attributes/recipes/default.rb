@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-mymessage = "Hello World!"
+mymessage = "Hello World! Today's date is June 9th."
 nodename =node["machinename"]
 node.force_default.mp_attributes.mymsg='Hellow World from Recipe'
 ##default['mp_attributes']['mymsg']='Hellow World from Recipe'
